@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[在路上...]]></title>
+  <link href="http://zjia8765.github.io/atom.xml" rel="self"/>
+  <link href="http://zjia8765.github.io/"/>
+  <updated>2013-05-13T17:37:06+08:00</updated>
+  <id>http://zjia8765.github.io/</id>
+  <author>
+    <name><![CDATA[zjia8765]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
