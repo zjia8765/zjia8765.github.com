@@ -4,7 +4,7 @@
   <title><![CDATA[在路上...]]></title>
   <link href="http://zjia8765.github.io/atom.xml" rel="self"/>
   <link href="http://zjia8765.github.io/"/>
-  <updated>2013-06-04T18:31:15+08:00</updated>
+  <updated>2013-06-05T15:53:31+08:00</updated>
   <id>http://zjia8765.github.io/</id>
   <author>
     <name><![CDATA[zjia8765]]></name>
@@ -18,12 +18,76 @@
     <link href="http://zjia8765.github.io/blog/2013/05/17/my-first-post/"/>
     <updated>2013-05-17T15:41:00+08:00</updated>
     <id>http://zjia8765.github.io/blog/2013/05/17/my-first-post</id>
-    <content type="html"><![CDATA[<ol>
+    <content type="html"><![CDATA[<p> 工欲善其事，必先利其器。身为程序猿，合理使用软件工具可使工作更加顺利，高效。以下简单介绍个人常用工具</p>
+
+
+
+
+<ul>
+<li><h6> 程序猿开发工具</h6></li>
+<ol>
+<li><a href="http://www.araxis.com/merge_mac/index.html" target="_blank">Araxis Merge</a> 文件比较、合并和同步软件</li>
+<li><a href="http://www.wireshark.org/download.html" target="_blank">Wireshark</a> 网络抓包工具，可用来查看网络和上层协议的各种信息，很好用</li>
+<li><a href="http://www.charlesproxy.com/" target="_blank">Charles</a> 又一款抓包工具，HTTP代理服务器</li>
+<li><a href="http://www.zennaware.com" target="_blank">Cornerstone</a> mac下SVN项目管理工具<a href="http://blog.sina.com.cn/s/blog_834f346f0100s2lg.html" target="_blank">(破解)</a></li>
+<li><a href="http://versionsapp.com/" target="_blank">Versions</a> SVN管理工具，相比Cornerstone功能较少，但工作中完全够用</li>
+<li><a href="http://www.sourcetreeapp.com/" target="_blank">SourceTree</a> git GUI管理工具</li>
+<li><a href="https://itunes.apple.com/cn/app/dash-docs-snippets/id458034879?mt=12" target="_blank">Dash</a> API文档浏览及代码片段管理工具，程序员必备</li>
+<li><a href="http://macrabbit.com/espresso/" target="_blank">Espresso</a> 强大的网页开发工具</li>
+<li><a href="http://d.pr/ppTW" target="_blank">Extract</a> 无损提取ipa里面的图片</li>
+<li><a href="https://filezilla-project.org/" target="_blank">FileZilla</a> 免费开源的FTP客户端</li>
+<li><a href="http://www.getmarkman.com/" target="_blank">Mark Man</a> 高效的设计稿标注和测量软件</li>
+<li><a href="https://itunes.apple.com/cn/app/resizer/id411277085?mt=12" target="_blank">Resizer</a> 图片@2x缩小工具，开发者必备</li>
+<li><a href="http://www.sublimetext.com/2" target="_blank">Sublime Text 2</a> 强大的跨平台编辑器，必备</li>
+<li><a href="https://itunes.apple.com/cn/app/textwrangler/id404010395?mt=12" target="_blank">TextWrangler</a> 纯文本编辑器，轻巧的代码开发工具</li>
+<li><a href="http://www.iterm2.com/" target="_blank">iTerm</a> 功能齐全的命令终端</li>
+</ol>
+</ul>
+
+
+
+
+<ul>
+<li><h6> 系统加强工具</h6></li>
+<ol>
 <li><a href="http://invisiblix.soft32.com/" target="_blank">invisibliX</a> 显示你的隐藏文件</li>
-<li><a href="http://evernote.com/" target="_blank">Evernote</a> 不解释</li>
 <li><a href="http://www.alfredapp.com/" target="_blank">Alfred</a> 完美替代 spotlight的工具<a href="http://www.cnbeta.com/articles/203640.htm" target="_blank">(介绍)</a></li>
-<li>AppCleaner</a> 干净彻底卸载程序，很方便</li>
+<li><a href="http://www.trankynam.com/xtrafinder/" target="_blank">XtraFinder</a> 文件夹增强工具，增加Tab，剪切等功能</li>
+<li><a href="http://www.clipmenu.com/" target="_blank">ClipMenu</a> 实用的剪贴板管理工具</li>
+<li><a href="http://appcleanermac.com/" target="_blank">AppCleaner</a> 干净彻底卸载程序，很方便</li>
 <li><a href="http://macpaw.com/cleanmymac/" target="_blank">CleanMyMac 2</a> 强大的系统清理工具</li>
+<li><a href="http://itools.hk/" target="_blank">iTools</a> 苹果设备同步管理软件,iTunes替代者</li>
+<li><a href="http://www.macroplant.com/iexplorer/" target="_blank">iExplorer</a> ,<a href="http://www.i-funbox.com/cn/" target="_blank">iFunBox</a> 两款苹果设备资源管理应用，可直接访问iOS设备上的应用程序目录、照片目录等</li>
+</ol>
+</ul>
+
+
+
+
+<ul>
+<li><h6> 高效必备工具</h6></li>
+<ol>
+<li><a href="http://evernote.com/" target="_blank">Evernote</a> 不解释</li>
+<li><a href="http://www.dropbox.com/‎" target="_blank">Dropbox</a> 跨平台文件同步，必备</li>
+<li><a href="https://www.wunderlist.com/" target="_blank">Wunderlist</a> 跨平台同步todo 列表的任务管理工具</li>
+<li><a href="http://getpocket.com" target="_blank">Pocket</a> 稍候阅读，不多说</li>
+<li><a href="http://www.msec.it/blog/?page_id=11‎" target="_blank">Dukto</a> 免费跨局域网的文件/文件夹传输工具，支持PC及移动设备，开源项目(<a href="https://code.google.com/p/dukto/‎" target="_blank">源码</a>)，推荐</li>
+</ol>
+</ul>
+
+
+
+
+<ul>
+<li><h6> 娱乐相关</h6></li>
+<ol>
+<li><a href="http://dradio.me/" target="_blank">dRadio</a> 豆瓣电台客户端，界面简洁，使用方便</li>
+</ol>
+</ul>
+
+
+<ol>
+
 </ol>
 
 ]]></content>
